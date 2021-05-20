@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+
+title: "Robust Object Detection Fusion Against Deception"
+description: Ka-Ho Chow and Ling Liu
+
+show_downloads: True
